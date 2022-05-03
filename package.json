@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "browser-sync start -s -w **/*.js --directory"
+  },
+  "private": true
+}
